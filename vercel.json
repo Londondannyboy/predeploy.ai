@@ -1,6 +1,11 @@
 {
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://gtm.quest/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "destination": "https://gtm.quest/",
       "permanent": true
